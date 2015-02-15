@@ -1,0 +1,3 @@
+[submodule "applications/FitnessTracker"]
+	path = applications/FitnessTracker
+	url = https://github.com/Sharp6/FitnessTracker.git
